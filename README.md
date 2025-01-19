@@ -17,9 +17,13 @@ Una aplicación sencilla para realizar sorteos de Amigo Secreto de forma rápida
 
 # 📝 Uso
  * Escribe el nombre de un participante en el campo de texto y haz clic en Agregar Amigo.
+ ![alt text](./image/InscribirParticipante.png)
  * La lista de participantes se mostrará automáticamente.
+ ![alt text](./image/Participantes.png)
  * Haz clic en Sortear Amigo para realizar el sorteo.
+ ![alt text](./image/SeleccionAmigoSecreto.png)
  * El nombre del "Amigo Secreto" se mostrará en pantalla.
+ ![alt text](./image/SeleccionAmigoSecreto.png)
  * Repite el sorteo hasta que todos los participantes hayan sido asignados.
 
 # ⚙️ Requisitos
